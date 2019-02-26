@@ -1,0 +1,31 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha test/IsEvenTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyensingh/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Satyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyensingh/test/issues"
+  },
+  "homepage": "https://github.com/satyensingh/test#readme"
+}
